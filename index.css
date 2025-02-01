@@ -6,7 +6,7 @@ body {
   flex-direction: column;
   align-items: center;
   font-family: Arial, sans-serif;
-  background-image: url("/A_Dashboard/assets/Screenshot\ \(20\).png");
+  background-image: url("/assets/Screenshot\ \(12\).png");
   background-repeat: no-repeat;
   background-size: 100%;
   color: #ffffff;
@@ -22,7 +22,7 @@ body {
 
 h1 {
   font-size: 5rem;
-  margin-bottom: 3.5rem;
+  margin-bottom: 4rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
@@ -30,12 +30,12 @@ h1 {
   font-size: 2rem;
   font-style: italic;
   color: rgba(255, 255, 255, 0.8);
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
 }
 
 .subtitle {
   font-size: 2rem;
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -45,6 +45,7 @@ h1 {
   gap: 1rem;
   justify-content: center;
   max-width: 1200px;
+
 }
 
 .assignment-button {
